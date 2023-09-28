@@ -1,0 +1,29 @@
+{
+  "name": "mineskin_explorer",
+  "version": "1.0.0",
+  "description": "It can explore and preview multiple Minecraft skin files in a folder at the same time.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/googolfx/mineskin_explorer.git"
+  },
+  "keywords": [
+    "Minecraft",
+    "Game",
+    "Electron",
+    "Utility"
+  ],
+  "author": "WhiteBell",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/googolfx/mineskin_explorer/issues"
+  },
+  "homepage": "https://github.com/googolfx/mineskin_explorer#readme",
+  "devDependencies": {
+    "electron": "^26.2.3"
+  }
+}
