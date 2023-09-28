@@ -4,7 +4,7 @@
   "description": "It can explore and preview multiple Minecraft skin files in a folder at the same time.",
   "main": "main.js",
   "scripts": {
-    "start": "node .",
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
